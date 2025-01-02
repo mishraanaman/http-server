@@ -32,7 +32,7 @@ This project demonstrates a simple HTTP server built using Node.js. The server p
 ### Running the Server
 Start the server using the following command:
 ```bash
-node server.js
+node index.js
 ```
 
 The server will start on port `3000` and can be accessed at `http://localhost:3000`.
