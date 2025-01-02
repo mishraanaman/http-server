@@ -7,6 +7,7 @@ This project demonstrates a simple HTTP server built using different programming
 **GET /friends**:  Retrieves the list of all friends.
 **GET /friends/:id**: Retrieves a specific friend by ID.
 **POST /friends**: Adds a new friend to the list.
+
 ### Messages API:
 
 GET /messages: Returns a simple HTML page with example messages.
