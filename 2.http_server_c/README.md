@@ -1,4 +1,3 @@
-Here is the content formatted in markdown that you can use directly for your GitHub repository as `README.md`:
 
 ```markdown
 # Simple C HTTP Server
@@ -7,9 +6,9 @@ This project is a simple HTTP server implemented in C. It demonstrates basic HTT
 
 ## Features
 
-- **Serve JSON Data**: Returns a list of friends or a specific friend based on the URL.
-- **Serve HTML Content**: Returns a simple HTML page for the `/messages` endpoint.
-- **Handle 404 Errors**: Returns an appropriate error response for unsupported endpoints.
+- Serve JSON Data Returns a list of friends or a specific friend based on the URL.
+- Serve HTML Content Returns a simple HTML page for the `/messages` endpoint.
+- Handle 404 Errors Returns an appropriate error response for unsupported endpoints.
 
 ## Endpoints
 
