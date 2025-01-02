@@ -15,7 +15,7 @@ This project demonstrates a simple HTTP server implemented in C. The server prov
 ## Getting Started
 
 ### Prerequisites
-- [Node.js](https://nodejs.org/) installed on your system.
+- [C Complier]Make sure a C compiler is installed on your system. We have  used MinGW gcc.
 
 ### Installation
 1. Clone the repository:
@@ -30,7 +30,7 @@ This project demonstrates a simple HTTP server implemented in C. The server prov
    gcc -o server main.c
    ```
 
-2. **Run the Server**:
+2. **Run the Server Executable**:
    Start the server using:
    ```bash
    ./server
