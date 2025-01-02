@@ -10,4 +10,4 @@ This project demonstrates a simple HTTP server built using different programming
 
 ### Messages API:
 
-**GET /messages**: Returns a simple HTML page with example messages.
+- **GET /messages**: Returns a simple HTML page with example messages.
